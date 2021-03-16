@@ -1,8 +1,8 @@
 This notebook implements the computational experiments in the paper below:
 
-Guillermo Gallego \& Garrett van Ryzin (1994), ``Optimal Dynamic Pricing of 
-Inventories with Stochastic Demand Over Finite Horizons", \textit{Management 
-Science}, 40(8): 999-1020.
+Guillermo Gallego \& Garrett van Ryzin (1994), "Optimal Dynamic Pricing of 
+Inventories with Stochastic Demand Over Finite Horizons", *Management 
+Science*, 40(8): 999-1020.
 URL: https://pubsonline.informs.org/doi/10.1287/mnsc.40.8.999
 DOI: https://doi.org/10.1287/mnsc.40.8.999
 
