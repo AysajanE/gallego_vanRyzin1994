@@ -1,0 +1,6 @@
+*.pdf
+*.xlsx
+*.log
+*.csv
+*.ipyng_checkpoints
+*/.ipynb_checkpoints/*
